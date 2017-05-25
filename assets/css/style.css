@@ -13,7 +13,7 @@ body {
 
 a {
 	text-decoration: none;
-	color: #cccccc;
+	color: #555;
 }
 
 
@@ -30,7 +30,7 @@ a {
 
 #namebox {
 	background-color: #4aaaa5;
-	width: 204px;
+	width: 230px;
 	height: 60px;
 	line-height: 60px;
 	font-size: 28px;
@@ -90,7 +90,6 @@ li:last-child {
 	color: #777777;
 	left: 80px;
 	top:  30px;
-	/*background-color: white;*/
 	background-color: white;
 	padding: 65px 10px 0px 10px;
 }
@@ -103,7 +102,6 @@ li:last-child {
 	color: #777777;
 	left: 80px;
 	top:  30px;
-	/*background-color: white;*/
 	background-color: white;
 	padding: 65px 10px 0px 10px;
 }
@@ -149,40 +147,28 @@ li:last-child {
 
 
 .imagedesc {
-	width: 205px;
+	width: 225px;
 	background-color:  #4aaaa5;
+	font-size: 18px;
+	color: white;
+	position: absolute;
+	z-index: 10;
+	text-align: center;
+	padding: 10px;
+}
+
+.row1 {
 	top: 250px;
-	font-size: 18px;
-	color: white;
-	position: absolute;
-	z-index: 10;
-	text-align: center;
-	padding: 10px;
 }
 
-
-.imagedescrowtwo {
-	width: 205px;
-	background-color:  #4aaaa5;
+.row2 {
 	top: 490px;
-	font-size: 18px;
-	color: white;
-	position: absolute;
-	z-index: 10;
-	text-align: center;
-	padding: 10px;
 }
 
-.imagedescrowthree {
-	width: 205px;
-	background-color:  #4aaaa5;
+
+
+.row3 {
 	top: 730px;
-	font-size: 18px;
-	color: white;
-	position: absolute;
-	z-index: 10;
-	text-align: center;
-	padding: 10px;
 }
 
 
