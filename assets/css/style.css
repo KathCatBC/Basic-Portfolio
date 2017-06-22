@@ -239,5 +239,10 @@ button {
 	left:0;
 }	
 
+iframe {
+  width: 650px;
+  height: 425px;
+}
+
 
 
