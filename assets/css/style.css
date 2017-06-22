@@ -84,7 +84,7 @@ li:last-child {
 
 
 #maincontentframe {
-	height: 350px;
+	height: 400px;
 	width: 650px;
 	position: relative;
 	color: #777777;
@@ -181,15 +181,14 @@ button {
 
 }
 
-.menu:hover {
-	
+
+.menu:hover {	
 	border-width: 2px;
 	border-style: solid;
 	border-color: black;
     color: #4aaaa5;
     background-color: #cccccc;
 }
-
 
 
 #sidebarpanel {
@@ -243,6 +242,3 @@ iframe {
   width: 650px;
   height: 425px;
 }
-
-
-
